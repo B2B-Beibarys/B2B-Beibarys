@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋 I'm Beibarys
+I'm a student at IITU (Almaty), currently starting my journey as an IT specialist. 🚀
+🛠 Tech Stack & Tools
+- 🌍 Languages: Learning SQL, Java(Basic level)
+- 🔭 Focus: QA Engineering / Software Engineering  
 
-<!--
-**B2B-Beibarys/B2B-Beibarys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌱 What I'm doing right now
+- 🎓 Student at IITU, Almaty.
+- 🔍 Self-studying QA Manual-Testing: Learning bug reports, test cases, and STLC basics.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to reach me
+- **Telegram:** [@b2bfrd13]
+- **Email:** [b.beibarys.post@mail.ru]
+- **LinkedIn:** [https://www.linkedin.com/in/beibarys-borankul-925173355]
