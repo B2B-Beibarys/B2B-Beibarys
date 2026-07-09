@@ -8,6 +8,7 @@ Student at **IITU** (Almaty) | **Junior QA Manual Engineer** | **SQL Enthusiast*
 ###  Featured Projects
 - [Taxi Database](https://github.com/B2B-Beibarys/DataBase-Taxi.git) — SQL schema and complex queries.
 - [Bug Reports](https://github.com/B2B-Beibarys/Bug-Reports.git) — Real-world bug reports for Janymda App.
+- [Event-Bot](https://github.com/B2B-Beibarys/event-bot.git) — Event bot on Telegram for organizing the schedule.
 
 ###  How to reach me
 - **Telegram:** [@b2bfrd13]
