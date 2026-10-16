@@ -1,6 +1,6 @@
 # Hi there I'm Beibarys
 
-Student at **IITU** (Almaty) | **Junior QA Manual Engineer** | **SQL Enthusiast**
+Student at **IITU** (Almaty) | **Junior** | **SQL Enthusiast**
 
 ###  About Me
 - 🎓 Studying IT at International IT University.
